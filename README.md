@@ -1,2 +1,2 @@
 # AdvancedBouncingBalls
- An improved boundingballs game from mdn JavaScript Tutorial
+ An improved bouncingballs game from mdn JavaScript Tutorial
